@@ -11,7 +11,7 @@ import SwiftUI
 struct SwitftfulThinkingContinuedApp: App {
     var body: some Scene {
         WindowGroup {
-            DragGestureBootcamp()
+            ScrollViewReaderBootcamp()
         }
     }
 }
